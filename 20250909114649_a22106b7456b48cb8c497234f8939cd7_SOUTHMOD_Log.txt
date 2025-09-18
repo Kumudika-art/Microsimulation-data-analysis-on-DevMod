@@ -1,0 +1,12 @@
+===== SOUTHMOD LOG =====
+Software-Version: 3.8.3
+Project: devmod v1.0
+Start: Tuesday, 9 September 2025 11.46.48
+End: Tuesday, 9 September 2025 11.46.49
+Duration: 1,1266904s
+Output-Path: c:\users\kpblk\onedrive\desktop\devmod v1.0\output\
+-----------------------------------------------------------------------------------------------------------------------------------
+===== RUN-LOG =====
+Run-Id	Status	System	Database	Start	End	Duration	Currency	Exchangerate	POV	Non-Default Output-Path	Output-File	Output-Hash
+56a679fd-12fd-4786-8e27-e4af753c0178	finished	DV_2023	dv_2020_a1	Tuesday, 9 September 2025 11.46.48	Tuesday, 9 September 2025 11.46.49	1,1266904s	national	1	0	-	dv_2023_std	5827188e16e16b99c33f0c82d756facc
+c8337a5a-675b-4e1e-a05e-d241889ea714	finished	DV_2023_reforms	dv_2020_a1	Tuesday, 9 September 2025 11.46.48	Tuesday, 9 September 2025 11.46.49	1,1142273s	national	1	0	-	dv_2023_reforms_std	b8bacc373a0bdaa39ef280dda88125c9

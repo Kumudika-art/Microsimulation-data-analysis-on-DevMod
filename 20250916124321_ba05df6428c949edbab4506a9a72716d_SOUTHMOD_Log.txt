@@ -1,0 +1,19 @@
+===== SOUTHMOD LOG =====
+Software-Version: 3.8.3
+Project: devmod v1.0
+Start: Tuesday, 16 September 2025 12.43.21
+End: Tuesday, 16 September 2025 12.43.21
+Duration: 0,5015781s
+Output-Path: c:\users\kpblk\onedrive\desktop\devmod v1.0\output\
+-----------------------------------------------------------------------------------------------------------------------------------
+===== RUN-LOG =====
+Run-Id	Status	System	Database	Start	End	Duration	Currency	Exchangerate	POV	Non-Default Output-Path	Output-File	Output-Hash
+4dabbdfb-2273-425d-9abb-01ee9cce2ef6	finished	DV_2023	dv_2020_a1	Tuesday, 16 September 2025 12.43.21	Tuesday, 16 September 2025 12.43.21	0,5015781s	national	1	0	-	dv_2023_std	5827188e16e16b99c33f0c82d756facc
+859c8a8b-ddb2-4421-a929-6934b8673e94	aborted	DV_2023_reform	dv_2020_a1	Tuesday, 16 September 2025 12.43.21	Tuesday, 16 September 2025 12.43.21	0,2692946s	national	1	0	-	dv_2023_reform_std
+-----------------------------------------------------------------------------------------------------------------------------------
+===== ERROR-LOG =====
+Run-Id: 859c8a8b-ddb2-4421-a929-6934b8673e94
+ERROR: 16.1.6 boa_dv/BenCalc/Comp_Cond (4fe573e2-fb05-4540-a990-5f10b94c018c): Formula error: Formula not properly closed.
+WARNING: 16.1.8 boa_dv/BenCalc/#_AgeMin (b0493cd2-23e5-4c83-a67c-be11bcad4043): unused footnote
+WARNING: 16.1.7 boa_dv/BenCalc/#_AgeMax (88f8a50e-72f4-4613-bb2d-752042a37331): unused footnote
+WARNING: 16.1.9 boa_dv/BenCalc/#_Level (696cd451-aa24-47be-a60c-7185d8135b14): unused footnote

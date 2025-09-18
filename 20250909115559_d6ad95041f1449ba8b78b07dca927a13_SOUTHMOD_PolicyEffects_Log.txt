@@ -1,0 +1,24 @@
+===== SOUTHMOD POLICY EFFECTS LOG =====
+Software-Version: 3.8.3
+Project: devmod v1.0
+Start: Tuesday, 9 September 2025 11.55.58
+End: Tuesday, 9 September 2025 11.55.59
+Duration: 0,6645514s
+Output-Path: c:\users\kpblk\onedrive\desktop\devmod v1.0\output\
+-----------------------------------------------------------------------------------------------------------------------------------
+===== POLICY EFFECT SETTINGS =====
+Decomposition type: multiple combinations (3 per dataset)
+Year1: 2020
+Year2: 2020
+Alpha(s): Custom = 1, CPI
+Decomposing on: Data1
+Output: Scaled
+Selected Country: DV with Sys/Data1=DV_2020/dv_2020_a1 & Sys/Data2=DV_2020/dv_2020_a1
+-----------------------------------------------------------------------------------------------------------------------------------
+===== RUN-LOG =====
+Run-Id	Status	System	Database	Start	End	Duration	Currency	Exchangerate	All Extension Switches	Non-Default Output-Path	Output-File	Output-Hash
+6e1f5d36-7197-4911-9f39-1ee6e5e2c3a7	finished	DV_2020	dv_2020_a1	Tuesday, 9 September 2025 11.55.58	Tuesday, 9 September 2025 11.55.59	0,6645514s	n/a	n/a	default-settings	-	dv_2020_std	5b8aa9a9b96fd0d52ce88dcdd86af7fc
+-----------------------------------------------------------------------------------------------------------------------------------
+===== ERROR-LOG =====
+ERROR: There was a problem with creating DV's decomposed systems: The CPI raw indices ('$HICP') were not found for the selected years!
+-----------------------------------------------------------------------------------------------------------------------------------
